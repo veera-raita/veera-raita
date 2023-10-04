@@ -1,0 +1,5 @@
+- 👋 hi, i’m @veera-raita
+- 👀 i’m interested in furthering my understanding of c-languages, and i'm considering js and react eventually
+- 🌱 i’m currently learning basic c++ and c#, basic modelling in 3dsmax and basic gamedev in unity
+- 💞️ i’m looking to collaborate on nothing as of yet
+- 📫 how to reach me: tba
