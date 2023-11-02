@@ -1,6 +1,6 @@
 - 👋 hi, i’m @veera-raita
 - 👀 i’m interested in furthering my understanding of c-languages and learning simple pixel art
--    also interested in moving from using unity to using godot
-- 🌱 i’m currently learning basic c++ and c#, basic modelling in 3dsmax and basic gamedev in unity & ue5
+- 🌱 i’m currently learning basic c++ and c#, and basic gamedev in unity & ue5
+- 💫 i'm also interested in moving from using unity to using godot
 - 💞️ i’m looking to collaborate on nothing as of yet
 - 📫 how to reach me: tba
