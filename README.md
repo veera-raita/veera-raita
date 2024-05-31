@@ -3,4 +3,4 @@
 - 🌱 i’m currently learning intermediate c++ and c#, and gamedev in unity & ue5
 - 💫 i'm also interested in learning about godot development and creating games in a ps1-aesthetic
 - 💞️ not looking to collaborate on anything yet; i have my hands full with university assignments!
-- 📫 how to reach me: message me on [Linked-In](https://www.linkedin.com/in/veera-raita-9b20742a0/)
+- 📫 how to reach me: message me on [linkedin](https://www.linkedin.com/in/veera-raita-9b20742a0/)
