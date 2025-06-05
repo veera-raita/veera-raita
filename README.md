@@ -1,6 +1,6 @@
 - 👋 hi, i’m @veera-raita
-- 👀 i’m interested in game development of every kind, especially using unity
-- 🌱 i’m currently learning intermediate c++ and c#, and gamedev in unity & ue5
-- 💫 i'm also interested in learning about godot development and creating games in a ps1-aesthetic
-- 💞️ not looking to collaborate on anything yet; i have my hands full with university assignments!
+- 👀 i’m interested in developing unity games, mostly 2d or other sorts of retro
+- 🌱 i’m currently learning advanced c# and gamedev in unity (according to my uni anyway)
+- 👾 i'm especially interested in using modern game engines to recreate retro aesthetics
+- 💫 not looking to collaborate on anything yet; i have my hands full with various projects & classes!
 - 📫 how to reach me: message me on [linkedin](https://www.linkedin.com/in/veera-raita-9b20742a0/)
