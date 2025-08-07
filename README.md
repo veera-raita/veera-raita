@@ -1,6 +1,9 @@
 - 👋 hi, i’m @veera-raita
-- 👀 i’m interested in developing unity games, mostly 2d or other sorts of retro
+- 📝 i'm studying game programming in a university of applied sciences!
+- 🕹️ i’m interested in programming for unity games, especially retro-styled (pixel art or psx-style)
 - 🌱 i’m currently learning advanced c# and gamedev in unity (according to my uni anyway)
-- 👾 i'm especially interested in using modern game engines to recreate retro aesthetics
+- 🍂 i've also studied a small amount of unreal engine 5 and c++ but it's not my preference
+- 👾 trying to use modern tools and game engines for "authentic", pixel perfect retro aesthetics
 - 💫 not looking to collaborate on anything yet; i have my hands full with various projects & classes!
 - 📫 how to reach me: message me on [linkedin](https://www.linkedin.com/in/veera-raita-9b20742a0/)
+- 🖥️ vehemently against ai no matter the use case. human creativity is unmatched.
